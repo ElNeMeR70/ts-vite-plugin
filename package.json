@@ -1,0 +1,13 @@
+{
+  "name": "ts-vite-plugin",
+  "version": "1.0.0",
+  "description": "Vite plugin API: transform, resolve, load hooks",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
